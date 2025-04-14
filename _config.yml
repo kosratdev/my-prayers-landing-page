@@ -10,7 +10,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.webp                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : +1 Million Downloads                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : My Prayers is an Islamic app that offers accurate prayer times, Qibla direction, Azkars (Hisnul Muslim), 99 Names of Allah, and more.
@@ -23,13 +23,13 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Kosrat D. Ahmed                                
 your_link                                 : https://kosrat.dev                     
 your_city                                 :                                 
-email_address                             : kosrat.d.ahmad@gmail.com
+email_address                             : contact@myprayers.io
 linkedin_username                         :                                           
-linkedin_company                          :                                           
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
-github_username                           : kosratdev
+linkedin_company                          : my-prayers                                          
+facebook_username                         : my.prayers.times                                          
+instagram_username                        : my.prayers.times
+twitter_username                          : My_Prayers_App
+github_username                           : my-prayers
 youtube_username                          :
 mastodon_link                             : 
 
