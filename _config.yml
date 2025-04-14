@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : My Prayers is an Islamic app that offers accurate prayer times. It also includes Qibla direction, Azkars (Hisnul Muslim), 99 Names of Allah, and more.
+app_price                                 : +1 Million Downloads                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : My Prayers is an Islamic app that offers accurate prayer times, Qibla direction, Azkars (Hisnul Muslim), 99 Names of Allah, and more.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,28 +38,28 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Accurate Prayer Times
+    description                           : Get precise prayer times based on your location and multiple calculation conventions.
     fontawesome_icon_name                 : clock
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : location
+  - title                                 : Azkars
+    description                           : Access 287 authentic daily Azkars from Hisnul Muslim with sharing and reminder options.
+    fontawesome_icon_name                 : praying-hands
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Qibla Direction
+    description                           : Find the accurate Qibla direction using a built-in compass, wherever you are.
+    fontawesome_icon_name                 : compass
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : hands-praying
+  - title                                 : Offline Location Finder
+    description                           : Manually find your location without internet using GPS or search to get prayer times.
+    fontawesome_icon_name                 : map-marker-alt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 99 Names of Allah
+    description                           : Explore and reflect on the 99 beautiful Names of Allah with meanings.
     fontawesome_icon_name                 : quran
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Notifications & Reminders
+    description                           : Customize Adhan alerts, tones, silent mode, and reminders for every prayer and daily Azkars.
     fontawesome_icon_name                 : bell
 
 
